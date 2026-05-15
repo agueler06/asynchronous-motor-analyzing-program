@@ -61,4 +61,4 @@ Simulates real-world applications by allowing users to input a rated load torque
 ### Installation & Build
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/yourusername/Asynchronous-Motor-Analyzer.git](https://github.com/yourusername/Asynchronous-Motor-Analyzer.git)
+   git clone [https://github.com/agueler06/Asynchronous-Motor-Analyzer.git](https://github.com/agueler06/Asynchronous-Motor-Analyzer.git)
